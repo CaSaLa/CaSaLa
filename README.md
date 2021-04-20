@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CaSaLa
-- 👀 I’m interested in programming my own web tools. Share them with my friends and eventually with everyone.
+- 👀 I’m interested in programming my own web tools. Sharing them with my friends and eventually with everyone.
 - 🌱 I’m currently learning FullStack development
 
 <!---
